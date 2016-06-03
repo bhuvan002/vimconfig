@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/bhuvan/workspace/blood_bank/app/views/password_resets'
+let g:netrw_dirhist_2='/Users/bhuvan/workspace/blood_bank/db/migrate'
+let g:netrw_dirhist_3='/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/include/python2.7'
+let g:netrw_dirhist_4='/Users/bhuvan/workspace/blood_bank/app/models'
+let g:netrw_dirhist_5='/Users/bhuvan/workspace/blood_bank/test/fixtures'
