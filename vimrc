@@ -1,7 +1,7 @@
 syntax enable
-set background=light
-let g:solarized_termtrans = 1
-colorscheme solarized
+"set background=light
+"let g:solarized_termtrans = 1
+"colorscheme solarized
 set number
 
 " FiraCode font
