@@ -1,21 +1,15 @@
+execute pathogen#infect()
 syntax enable
-"set background=light
-"let g:solarized_termtrans = 1
-"colorscheme solarized
+set background=light
+colorscheme solarized
 set number
-
-" FiraCode font
-"set macligatures
-"set guifont=Fira\ Code:h12
 
 set runtimepath+=$HOME/.vim
 
 inoremap {<cr> {<cr>}<c-o><s-o>
 
-set mouse=a
-set ttymouse=xterm2
-
-execute pathogen#infect()
+" set mouse=a
+" set ttymouse=xterm2
 
 set nocompatible       " We're running Vim, not Vi!
 syntax on               " Enable syntax highlighting
